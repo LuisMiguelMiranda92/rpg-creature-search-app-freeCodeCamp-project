@@ -4,9 +4,7 @@ A modern, responsive web application that allows users to search for fantasy cre
 
 ---
 
-## 🌐 Live Demo
-[View the Live Project Here](https://LuisMiguelMiranda92.github.io/
-rpg-creature-search-app-freeCodeCamp-project/)
+[View the Live Project Here](https://LuisMiguelMiranda92.github.io/rpg-creature-search-app-freeCodeCamp-project/)
 
 ## 🚀 Features
 
